@@ -3,8 +3,6 @@
 const program = require("commander"); //commander 自定义命令行指令
 const chalk = require("chalk"); //控制台颜色设置
 const figlet = require("figlet"); //logo
-
-console.log("defs working");
 program
 // 定义命令和参数
     .command("cre <app-name>")

@@ -4,8 +4,6 @@
 **/dist
 **/.yalc
 **/*.lock
-packages/@dsf/cli/cache
-packages/product/vue.config.dev.js
 
 # local env files
 .env.local
